@@ -1,0 +1,74 @@
+/*
+Theme Name: Calmly
+Theme URI: https://www.candidthemes.com/themes/calmly-fse/
+Author: Candid Themes
+Author URI: https://www.candidthemes.com/
+Description: A perfect theme for WooCommerce store. Calmly is a full site editing WordPress theme with elegant design and carefully crafted patterns and parts. It is useful for any types of WooCommerce store ranging from calmly, cosmetics, autombiles, and many more.
+Requires at least: 6.0
+Tested up to: 6.4
+Requires PHP: 5.7
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: calmly
+Tags: portfolio, blog, e-commerce, full-site-editing, block-styles, editor-style, full-width-template, style-variations, translation-ready
+*/
+
+
+:where(.wp-site-blocks)>* {
+    margin-block-start: 0;
+}
+
+footer.wp-block-template-part {
+    margin: 0;
+}
+
+.wc-block-components-product-price .amount {
+    font-weight: 600;
+    color: var(--wp--preset--color--primary);
+}
+
+.wc-block-components-product-price del .amount {
+    font-weight: 400;
+    opacity: 0.6;
+    color: var(--wp--preset--color--secondary);
+}
+
+ul.wc-block-grid__products li.wc-block-grid__product:hover a img,
+.woocommerce ul.products li.product:hover a img {
+    transform: translateY(-7px);
+}
+
+.wp-block-query-pagination .wp-block-query-pagination-next,
+.wp-block-query-pagination .wp-block-query-pagination-previous {
+    color: var(--wp--preset--color--primary);
+}
+
+.wp-block-query-pagination .wp-block-query-pagination-next:hover,
+.wp-block-query-pagination .wp-block-query-pagination-previous:hover {
+    color: var(--wp--preset--color--primary-hover);
+}
+
+.page-numbers {
+    padding: 5px 15px;
+    border-radius: 15px;
+    text-align: center;
+    background: var(--wp--preset--color--primary);
+    color: #fff;
+    margin: 0 5px;
+}
+
+.page-numbers:hover {
+    background: var(--wp--preset--color--primary-hover);
+    color: #fff;
+}
+
+.wp-block-details summary::marker {
+    content: '';
+}
+
+.wp-block-details summary::after {
+    content: '/02936';
+}
+
+img:hover {}

@@ -1,0 +1,119 @@
+# Copyright (C) 2024 WordPress 2024 - Ecommerce
+# This file is distributed under the same license as the WordPress 2024 - Ecommerce package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress 2024 - Ecommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp2024-ecommerce\n"
+"POT-Creation-Date: 2024-02-28 01:50:27+00:00\n"
+"PO-Revision-Date: 2024-02-28 10:12+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: includes/admin_pages/orders.php:20
+msgid "Manage Orders"
+msgstr ""
+
+#: includes/admin_pages/orders.php:23
+msgid "All"
+msgstr "Tất cả"
+
+#: includes/admin_pages/orders.php:24 includes/admin_pages/orders.php:53
+msgid "New Orders"
+msgstr "Đơn hàng mới"
+
+#: includes/admin_pages/orders.php:25 includes/admin_pages/orders.php:54
+msgid "Complete Orders"
+msgstr "Đơn hàng đã hoàn thành"
+
+#: includes/admin_pages/orders.php:26 includes/admin_pages/orders.php:55
+msgid "Canceled Orders"
+msgstr "Đơn hàng đã hủy"
+
+#: includes/admin_pages/orders.php:34
+msgid "Search Orders"
+msgstr "Tìm kiếm đơn hàng"
+
+#: includes/admin_pages/orders.php:40
+msgid "Select Action"
+msgstr "Lựa chọn các thao tác"
+
+#: includes/admin_pages/orders.php:50 includes/admin_pages/orders.php:57
+msgid "Select Menu"
+msgstr "Sự chọn danh mục"
+
+#: includes/post_types.php:14
+msgid "Các sản phẩm"
+msgstr ""
+
+#: includes/post_types.php:15
+msgid "Sản phẩm"
+msgstr ""
+
+#: includes/post_types.php:29
+msgctxt "taxonomy general name"
+msgid "Danh mục"
+msgstr ""
+
+#: includes/post_types.php:30
+msgctxt "taxonomy singular name"
+msgid "Danh mục"
+msgstr ""
+
+#: includes/post_types.php:31
+msgid "Search Danh mục"
+msgstr ""
+
+#: includes/post_types.php:32
+msgid "All Danh mục"
+msgstr ""
+
+#: includes/post_types.php:33
+msgid "Parent Danh mục"
+msgstr ""
+
+#: includes/post_types.php:34
+msgid "Parent Danh mục:"
+msgstr ""
+
+#: includes/post_types.php:35
+msgid "Edit Danh mục"
+msgstr ""
+
+#: includes/post_types.php:36
+msgid "Update Danh mục"
+msgstr ""
+
+#: includes/post_types.php:37
+msgid "Add New Danh mục"
+msgstr ""
+
+#: includes/post_types.php:38
+msgid "New Danh mục Name"
+msgstr ""
+
+#: includes/post_types.php:39
+msgid "Danh mục"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WordPress 2024 - Ecommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "#"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin phục vụ khóa học WordPress 2024"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quảng Trị Coder"
+msgstr ""
